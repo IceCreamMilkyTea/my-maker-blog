@@ -1,7 +1,7 @@
 ---
 slug: first-blog-post
 title: Replace git remote add origin https://github.com/your-username/your-repo-name.git with a drag
-authors: [Yuhan Wei]
+authors: [yuhan_wei]
 tags: [awesome github desktop]
 ---
 
