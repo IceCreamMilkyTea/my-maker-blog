@@ -2,46 +2,54 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# My Maker Profile
+# 我的 Maker 档案
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## About Me | 关于我
 
-## Getting Started
+**Name | 姓名**: [Your Name]
 
-Get started by **creating a new site**.
+**Background | 背景**: [Tell us about yourself - where you're from, what you study, what interests you]
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**Why I'm Here | 为什么来参加**: [Why did you join this course? What motivated you?]
 
-### What you'll need
+## My Interests | 我的兴趣
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- [Interest 1]
+- [Interest 2]
+- [Interest 3]
 
-## Generate a new site
+## Skills I Have | 我拥有的技能
 
-Generate a new Docusaurus site using the **classic template**.
+- **Programming | 编程**: [e.g., Python, Arduino, none yet!]
+- **Hardware | 硬件**: [e.g., circuits, soldering, beginner]
+- **Other | 其他**: [e.g., 3D design, art, photography]
 
-The classic template will automatically be added to your project after you run the command:
+## Skills I Want to Learn | 我想学习的技能
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+1. [Skill 1]
+2. [Skill 2]
+3. [Skill 3]
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## My Maker Identity | 我的 Maker 身份
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Which Maker principle resonates with me most?
 
-## Start your site
+最能引起我共鸣的 Maker 原则是什么？
 
-Run the development server:
+> [Share which principle from Day 1 you connect with and why]
 
-```bash
-cd my-website
-npm run start
-```
+## My 6-Day Goals | 我的6天目标
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+By the end of this course, I want to:
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+在本课程结束时，我想要：
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [ ] [Goal 1]
+- [ ] [Goal 2]
+- [ ] [Goal 3]
+
+## Contact | 联系方式
+
+- **GitHub**: [@your-username](https://github.com/your-username)
+- **Email**: your.email@example.com
